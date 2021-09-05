@@ -5,3 +5,5 @@
 # Ups! Pogresila sam. (20:13, 04.09.2021.)
 
 # Menjam opet. (09:00, 05.09.2021.)
+
+# Izmena koda (10:10, 05.09.2021.)
